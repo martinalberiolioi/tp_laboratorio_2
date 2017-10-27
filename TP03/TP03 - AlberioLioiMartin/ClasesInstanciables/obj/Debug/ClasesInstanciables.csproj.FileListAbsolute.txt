@@ -1,0 +1,12 @@
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\Archivos.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\Clases Abstractas.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\Excepciones.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\Archivos.pdb
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\Clases Abstractas.pdb
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\bin\Debug\Excepciones.pdb
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

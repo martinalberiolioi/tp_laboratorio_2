@@ -1,0 +1,10 @@
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\bin\Debug\Enumerados.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\bin\Debug\Enumerados.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

@@ -1,0 +1,6 @@
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Enumerados\bin\Debug\Enumerados.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Enumerados\bin\Debug\Enumerados.pdb
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Enumerados\obj\Debug\Enumerados.csproj.CoreCompileInputs.cache
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Enumerados\obj\Debug\Enumerados.dll
+c:\users\martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Enumerados\obj\Debug\Enumerados.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\TP03 - AlberioLioiMartin\Enumerados\obj\Debug\Enumerados.csprojResolveAssemblyReference.cache
