@@ -1,0 +1,12 @@
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\Entidades\bin\Debug\Entidades.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\Entidades\obj\Debug\Entidades.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\Entidades\obj\Debug\Entidades.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\Entidades\bin\Debug\Entidades.dll
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\Entidades\bin\Debug\Entidades.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\Entidades\obj\Debug\Entidades.dll
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\Entidades\obj\Debug\Entidades.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

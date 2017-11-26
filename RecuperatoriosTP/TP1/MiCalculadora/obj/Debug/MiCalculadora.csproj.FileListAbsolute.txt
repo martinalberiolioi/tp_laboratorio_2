@@ -1,0 +1,36 @@
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Martín\Documents\Visual Studio Proyects\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\Entidades.dll
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\bin\Debug\Entidades.dll
+D:\Martin\Facultad\UTN\Tecnicatura en Programación\Segundo Cuatrimestre\Laboratorio II - Programacion II\TPs\TP01 - Recuperatorio\R.TP1 - AlberioLioiMartin - Copy\MiCalculadora\bin\Debug\Entidades.pdb
